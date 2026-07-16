@@ -1,0 +1,515 @@
+{
+  "Navbar": {
+  "home": "Accueil",
+  "solutions": "Solutions",
+  "portfolio": "Réalisations",
+  "about": "À propos",
+  "contact": "Contact",
+  "cta": "Commencer"
+},
+
+  "Hero": {
+  "badge": "Entreprise Technologique Premium d'Afrique",
+  "title": "Technologie.",
+  "highlight": "Branding. Marketing.",
+  "description": "Nous concevons des sites web, applications mobiles, plateformes SaaS, solutions d'intelligence artificielle, identités de marque et stratégies marketing qui accélèrent la croissance des entreprises africaines.",
+  "cta": "Démarrer votre projet",
+  "portfolio": "Voir le Portfolio"
+},
+
+  "Tech": {
+    "badge": "Technologies",
+    "title": "Construit avec des technologies modernes",
+    "description": "Nous utilisons des frameworks modernes, le cloud et l'intelligence artificielle pour développer des solutions numériques sécurisées, performantes et évolutives."
+  },
+
+  "Solutions": {
+    "badge": "Solutions",
+    "title": "Tout ce dont votre entreprise a besoin pour évoluer",
+    "description": "Du branding aux logiciels d'entreprise, BrandIT fournit des solutions technologiques complètes.",
+
+    "website_title": "Développement Web",
+    "website_desc": "Sites vitrines, e-commerce et réservation",
+
+    "mobile_title": "Applications Mobiles",
+    "mobile_desc": "Applications Android et iOS",
+
+    "software_title": "Logiciels & SaaS",
+    "software_desc": "Logiciels métiers et plateformes cloud",
+
+    "ai_title": "Intelligence Artificielle",
+    "ai_desc": "Automatisation et solutions intelligentes",
+
+    "branding_title": "Branding",
+    "branding_desc": "Identité de marque et communication",
+
+    "marketing_title": "Marketing Digital",
+    "marketing_desc": "SEO, Meta Ads et Google Ads",
+
+    "cloud_title": "Services Cloud",
+    "cloud_desc": "Hébergement, infrastructure et sauvegarde",
+
+    "consulting_title": "Conseil IT",
+    "consulting_desc": "Stratégie de transformation numérique",
+
+    "learn": "Découvrir"
+  },
+
+  "Industries": {
+    "badge": "Secteurs",
+    "title": "Les secteurs que nous accompagnons",
+    "description": "Nous créons des solutions digitales premium pour les entreprises africaines.",
+
+    "restaurants": "Restaurants",
+    "restaurants_desc": "Marketing, Branding et Commandes en ligne",
+
+    "hotels": "Hôtels",
+    "hotels_desc": "Solutions Hôtelières Premium",
+
+    "furniture": "Mobilier de Luxe",
+    "furniture_desc": "Positionnement de Marque Premium",
+
+    "realestate": "Immobilier",
+    "realestate_desc": "Marketing Immobilier et Sites Web",
+
+    "healthcare": "Santé",
+    "healthcare_desc": "Solutions Digitales Médicales",
+
+    "fashion": "Mode",
+    "fashion_desc": "Branding de Mode de Luxe",
+
+    "education": "Éducation",
+    "education_desc": "Écoles et Plateformes d'Apprentissage",
+
+    "travel": "Voyage",
+    "travel_desc": "Tourisme et Réservation",
+
+    "discover": "Découvrir"
+  },
+
+  "Portfolio": {
+    "badge": "Nos Réalisations",
+    "title": "Des projets qui créent des résultats",
+    "description": "Des marques de luxe aux logiciels d'entreprise, nous créons des expériences digitales qui développent les entreprises.",
+
+    "button": "Voir le Portfolio",
+
+    "all": "Tout",
+    "branding": "Branding",
+    "websites": "Sites Web",
+    "software": "Logiciels",
+    "marketing": "Marketing",
+
+    "project1": "Campagne Mobilier de Luxe",
+    "project2": "Marketing Restaurant",
+    "project3": "Plateforme Immobilière",
+    "project4": "Logiciel Santé"
+  },
+
+  "Why": {
+    "badge": "Pourquoi BrandIT",
+    "title": "Bien plus qu'une agence créative.",
+    "description": "Nous réunissons le branding, la technologie et le marketing dans un écosystème de croissance.",
+
+    "feature1_title": "L'entreprise avant tout",
+    "feature1_desc": "Une technologie conçue pour générer plus de clients et de revenus.",
+
+    "feature2_title": "Partenaire Digital Complet",
+    "feature2_desc": "Sites web, SaaS, IA, Cloud et Branding réunis dans une seule entreprise.",
+
+    "feature3_title": "Conçu pour l'Afrique",
+    "feature3_desc": "Des solutions adaptées aux entreprises africaines.",
+
+    "feature4_title": "Support à Long Terme",
+    "feature4_desc": "Maintenance, hébergement, mises à jour et accompagnement continu."
+  },
+
+  "CTA": {
+    "badge": "Construisons Ensemble",
+    "title": "Prêt à développer votre entreprise ?",
+    "description": "BrandIT accompagne les entreprises ambitieuses dans la création de marques, logiciels et expériences digitales.",
+    "button1": "Démarrer votre projet",
+    "button2": "Voir le Portfolio"
+  },
+
+  "Process": {
+  "badge": "Processus",
+  "title": "Notre méthode de travail",
+  "description": "Une méthode éprouvée pour transformer vos idées en produits numériques performants.",
+  "step1": "Découverte",
+  "step2": "Stratégie",
+  "step3": "Développement",
+  "step4": "Lancement",
+  "step5": "Croissance"
+},
+"Testimonials": {
+  "badge": "Témoignages",
+  "title": "Des entreprises ambitieuses nous font confiance",
+  "description": "Nos clients font confiance à BrandIT pour créer des expériences digitales premium qui génèrent une véritable croissance.",
+
+  "review1": "BrandIT a complètement transformé notre image de marque et notre présence en ligne. Nos demandes ont fortement augmenté.",
+
+  "review2": "La qualité des créations graphiques et des campagnes marketing a dépassé nos attentes. Nous recommandons vivement BrandIT.",
+
+  "review3": "Professionnel, créatif et toujours disponible. BrandIT est devenu un véritable partenaire de notre entreprise.",
+
+  "review4": "De notre site web à notre stratégie publicitaire, tout a été réalisé avec excellence."
+},
+
+"Footer": {
+  "description": "BrandIT Africa conçoit des sites web premium, des applications mobiles, des plateformes SaaS, des solutions IA et des stratégies marketing pour accélérer la croissance des entreprises.",
+
+  "services": "Services",
+  "company": "Entreprise",
+  "contactTitle": "Contact",
+
+  "web": "Création de sites web",
+  "mobile": "Applications mobiles",
+  "saas": "Plateformes SaaS",
+  "branding": "Branding",
+  "marketing": "Marketing digital",
+  "ai": "Intelligence artificielle",
+
+  "about": "À propos",
+  "portfolio": "Réalisations",
+  "contact": "Contact",
+  "blog": "Blog",
+
+  "cta": "Démarrer votre projet",
+
+  "rights": "Tous droits réservés."
+},
+"Services": {
+  "badge": "Solutions Numériques",
+
+  "title": "Une technologie qui accélère la croissance",
+
+  "description": "Nous concevons, développons et maintenons des solutions numériques modernes pour accompagner les entreprises africaines dans leur croissance.",
+
+  "cta": "Démarrer votre projet",
+
+  "portfolio": "Voir le Portfolio",
+
+  "item1": "Développement Logiciel",
+  "item2": "Intelligence Artificielle",
+  "item3": "Infrastructure Cloud",
+  "item4": "Sites Web & Applications",
+  "item5": "Marketing Digital",
+  "item6": "Automatisation",
+
+  "servicesBadge": "Nos Services",
+
+  "servicesTitle": "Tous vos besoins auprès d'un seul partenaire technologique",
+
+  "servicesDescription": "Du branding aux logiciels d'entreprise, BrandIT propose des solutions complètes de transformation numérique.",
+
+  "software": "Développement Logiciel",
+  "software_desc": "Logiciels métiers personnalisés pour améliorer la productivité et la croissance.",
+
+  "saas": "Logiciels SaaS",
+  "saas_desc": "Plateformes cloud modernes destinées aux entreprises et startups.",
+
+  "website": "Développement Web",
+  "website_desc": "Sites vitrines, plateformes e-commerce et systèmes de réservation.",
+
+  "mobile": "Applications Mobiles",
+  "mobile_desc": "Applications Android et iOS performantes avec une excellente expérience utilisateur.",
+
+  "ai": "Intelligence Artificielle",
+  "ai_desc": "Assistants IA, automatisation, chatbots et solutions intelligentes.",
+
+  "cloud": "Services Cloud",
+  "cloud_desc": "Hébergement cloud, migration, déploiement et gestion d'infrastructure.",
+
+  "marketing": "Marketing Digital",
+  "marketing_desc": "Meta Ads, Google Ads, SEO et campagnes marketing performantes.",
+
+  "branding": "Branding & Communication",
+  "branding_desc": "Stratégie de marque, identité visuelle et production de contenus.",
+
+  "consulting": "Conseil Informatique",
+  "consulting_desc": "Conseils technologiques pour accélérer votre transformation digitale.",
+
+  "integration": "Intégration de Systèmes",
+  "integration_desc": "Connexion de vos logiciels et automatisation des processus.",
+
+  "ecommerce": "Solutions E-Commerce",
+  "ecommerce_desc": "Boutiques en ligne complètes avec paiements sécurisés et gestion des stocks.",
+
+   "maintenance": "Maintenance & Support",
+  "maintenance_desc": "Support technique, sécurité, mises à jour et maintenance continue.",
+
+  "transformation": "Transformation Digitale",
+  "transformation_desc": "Accompagnement des entreprises dans leur modernisation numérique.",
+
+  "learn": "En savoir plus"
+},
+
+"About": {
+  "badge": "À propos de BrandIT",
+  "title": "Construire l'avenir numérique de l'Afrique.",
+  "description": "BrandIT est une entreprise technologique qui accompagne les entreprises grâce au développement logiciel, à l'intelligence artificielle, au cloud, au branding et au marketing digital. Nous créons des écosystèmes numériques qui génèrent une croissance mesurable.",
+
+  "button1": "Démarrer votre projet",
+  "button2": "Découvrir nos services",
+
+  "stat1": "Services Technologiques",
+  "stat2": "Secteurs d'activité",
+  "stat3": "Support",
+  "stat4": "Engagement",
+
+  "storyBadge": "Notre Histoire",
+  "storyTitle": "Une technologie qui résout de vrais défis d'entreprise.",
+  "storyParagraph1": "Les entreprises n'ont pas besoin de plus de technologie. Elles ont besoin de solutions qui produisent des résultats mesurables.",
+  "storyParagraph2": "BrandIT réunit le développement logiciel, l'intelligence artificielle, le branding, les services cloud et le marketing digital au sein d'un partenaire technologique unique.",
+  "storyParagraph3": "Nous créons des écosystèmes numériques qui améliorent l'efficacité, l'expérience client et favorisent une croissance durable.",
+
+  "purposeTitle": "Notre Mission",
+  "purposeDescription": "Permettre aux entreprises africaines de prospérer grâce à des solutions technologiques modernes et innovantes.",
+
+  "visionTitle": "Notre Vision",
+  "visionDescription": "Devenir le partenaire technologique le plus fiable d'Afrique pour les entreprises en pleine transformation numérique.",
+
+  "missionBadge": "Mission & Vision",
+  "missionHeading": "Guidés par une mission. Portés par l'impact.",
+  "missionIntro": "Notre mission et notre vision définissent notre façon de créer des solutions technologiques qui aident les entreprises à innover, se développer et réussir.",
+
+  "missionTitle": "Notre Mission",
+  "missionDescription": "Accompagner les entreprises africaines grâce à des solutions technologiques, de branding et de transformation digitale qui génèrent une croissance mesurable.",
+
+  "visionCardTitle": "Notre Vision",
+  "visionCardDescription": "Devenir l'entreprise technologique la plus fiable d'Afrique en créant des produits numériques innovants et des partenariats durables qui transforment les entreprises.",
+
+  "valuesBadge": "Nos Valeurs",
+  "valuesTitle": "Les principes qui guident chacune de nos actions",
+  "valuesDescription": "Ces valeurs influencent notre manière de concevoir, développer et accompagner chaque solution.",
+
+  "value1Title": "Innovation",
+  "value1Description": "Nous adoptons les nouvelles technologies pour créer des solutions plus intelligentes.",
+
+  "value2Title": "Excellence",
+  "value2Description": "Chaque projet est réalisé avec précision et souci du détail.",
+
+  "value3Title": "Intégrité",
+  "value3Description": "La transparence, l'honnêteté et la confiance sont au cœur de chaque partenariat.",
+
+  "value4Title": "Collaboration",
+  "value4Description": "Nous travaillons aux côtés de nos clients pour atteindre des objectifs communs.",
+
+  "value5Title": "Croissance",
+  "value5Description": "Nous privilégions une croissance mesurable plutôt qu'une simple livraison de projet.",
+
+  "value6Title": "Apprentissage Continu",
+  "value6Description": "La technologie évolue rapidement, et nous évoluons avec elle."
+
+  ,
+"faqBadge": "Questions Fréquentes",
+
+"faqTitle": "Tout ce que vous devez savoir",
+
+"faqDescription": "Les réponses aux questions les plus fréquentes concernant BrandIT et notre manière de travailler.",
+
+"faq1Question": "Quels services propose BrandIT ?",
+"faq1Answer": "Nous proposons le développement logiciel, les plateformes SaaS, les sites web, les applications mobiles, l'intelligence artificielle, les services cloud, le branding, le marketing digital, le conseil informatique, l'intégration de systèmes et la transformation digitale.",
+
+"faq2Question": "Travaillez-vous avec des entreprises en dehors de l'Afrique ?",
+"faq2Answer": "Oui. Même si BrandIT est spécialisé dans l'accompagnement des entreprises africaines, nous collaborons avec des organisations partout dans le monde.",
+
+"faq3Question": "Combien de temps dure un projet ?",
+"faq3Answer": "Chaque projet est unique. Un site web peut être réalisé en quelques semaines tandis qu'une plateforme SaaS ou un logiciel d'entreprise peut nécessiter plusieurs mois selon sa complexité.",
+
+"faq4Question": "Proposez-vous un support après le lancement ?",
+"faq4Answer": "Oui. Nous assurons la maintenance, les mises à jour de sécurité, l'hébergement, la surveillance et le support technique à long terme.",
+
+"faq5Question": "Pouvez-vous moderniser un site web ou une application existante ?",
+"faq5Answer": "Absolument. Nous modernisons les sites web, applications mobiles et logiciels existants afin d'améliorer leurs performances, leur sécurité et leur expérience utilisateur.",
+
+"faq6Question": "Comment démarrer un projet avec BrandIT ?",
+"faq6Answer": "Contactez simplement notre équipe via la page Contact ou WhatsApp. Nous organiserons une réunion de découverte afin de comprendre vos besoins et proposer la meilleure solution."
+},
+
+"Contact": {
+  "badge": "Parlons de votre projet",
+  "title": "Construisons ensemble quelque chose d'exceptionnel.",
+  "description": "Que vous ayez besoin d'un site web, d'un logiciel, d'une plateforme SaaS, d'une solution d'intelligence artificielle, de branding ou de marketing digital, BrandIT est prêt à transformer votre vision en réalité.",
+
+  "button1": "Démarrer votre projet",
+  "button2": "Discuter sur WhatsApp",
+
+  "officeTitle": "Bureau",
+  "officeValue": "Abidjan, Côte d'Ivoire",
+  "officeDescription": "Nous accompagnons des clients en Afrique et dans le monde.",
+
+  "phoneTitle": "Téléphone",
+  "phoneDescription": "Échangez directement avec notre équipe.",
+
+  "emailTitle": "E-mail",
+  "emailDescription": "Envoyez-nous les détails de votre projet à tout moment.",
+
+  "whatsappTitle": "WhatsApp",
+  "whatsappDescription": "Réponse rapide, 7 jours sur 7.",
+
+  "formTitle": "Parlez-nous de votre projet",
+  "formDescription": "Remplissez le formulaire ci-dessous et notre équipe vous répondra sous 24 heures.",
+
+  "name": "Nom complet",
+  "company": "Nom de l'entreprise",
+  "email": "Adresse e-mail",
+  "phone": "Numéro de téléphone",
+  "service": "Choisissez un service",
+  "budget": "Budget estimé",
+  "message": "Décrivez votre projet...",
+
+  "send": "Envoyer",
+  "sending": "Envoi en cours...",
+  "success": "Merci ! Votre message a été envoyé avec succès.",
+
+  "visitTitle": "Venez nous rencontrer",
+  "visitDescription": "Que vous préfériez une rencontre en personne ou une collaboration à distance, BrandIT est prêt à accompagner votre croissance.",
+
+  "addressTitle": "Adresse",
+  "hoursTitle": "Heures d'ouverture",
+
+  "coverageTitle": "Zone d'intervention",
+  "coverageDescription": "Nous accompagnons des entreprises en Côte d'Ivoire, partout en Afrique et à l'international.",
+
+  "whyBadge": "Pourquoi BrandIT",
+
+"whyTitle": "Pourquoi les entreprises choisissent BrandIT",
+
+"whyDescription": "Nous ne livrons pas seulement des projets, nous construisons des partenariats durables orientés vers la croissance de votre entreprise.",
+
+"why1Title": "Livraison Rapide",
+"why1Description": "Une exécution efficace sans compromettre la qualité.",
+
+"why2Title": "Fiable & Sécurisé",
+"why2Description": "Vos idées, vos données et vos informations sont traitées avec la plus grande confidentialité.",
+
+"why3Title": "Collaboration Internationale",
+"why3Description": "Nous accompagnons des entreprises en Afrique et partout dans le monde.",
+
+"why4Title": "Équipe Dédiée",
+"why4Description": "Des designers, développeurs et consultants expérimentés travaillent ensemble sur votre projet.",
+
+"why5Title": "Solutions Axées sur les Résultats",
+"why5Description": "Chaque solution est conçue pour améliorer l'efficacité, les revenus et la satisfaction client.",
+
+"why6Title": "Support Long Terme",
+"why6Description": "Nous restons votre partenaire technologique bien après la mise en production."
+},
+
+"Blog": {
+  "badge": "Actualités",
+
+  "title": "Technologie, Innovation & Croissance",
+
+  "description": "Découvrez nos analyses sur le développement logiciel, l'intelligence artificielle, le branding, le SaaS, le marketing digital et la transformation des entreprises.",
+
+  "featured": "Article à la Une",
+
+  "comingSoon": "Articles bientôt disponibles",
+
+  "empty": "Nous préparons des contenus de qualité pour accompagner votre croissance numérique.",
+
+  "readMore": "Lire l'article",
+
+  "newsletterTitle": "Restez informé",
+
+  "newsletterDescription": "Abonnez-vous pour recevoir directement nos conseils sur le développement logiciel, l'IA, le branding, le SaaS et la transformation digitale.",
+
+  "emailPlaceholder": "Entrez votre adresse e-mail",
+
+  "subscribe": "S'abonner",
+
+  "subscribeSuccess": "Merci pour votre inscription !"
+},
+
+"Privacy": {
+  "badge": "Mentions Légales",
+
+  "title": "Politique de Confidentialité",
+
+  "description": "Votre vie privée est importante pour BrandIT. Cette page explique comment nous collectons, utilisons et protégeons vos informations personnelles.",
+
+  "section1Title": "Informations Collectées",
+  "section1Content": "Nous pouvons collecter les informations que vous fournissez volontairement, notamment votre nom, votre adresse e-mail, votre numéro de téléphone, les informations sur votre entreprise et les détails de votre projet.",
+
+  "section2Title": "Utilisation des Informations",
+  "section2Content": "Nous utilisons vos informations pour répondre à vos demandes, fournir nos services, améliorer votre expérience client, communiquer sur les projets et vous informer de nos services.",
+
+  "section3Title": "Cookies",
+  "section3Content": "Notre site peut utiliser des cookies afin d'améliorer ses fonctionnalités, analyser les performances et optimiser votre expérience de navigation.",
+
+  "section4Title": "Sécurité des Données",
+  "section4Content": "Nous mettons en œuvre des mesures techniques et organisationnelles adaptées afin de protéger vos données contre tout accès non autorisé ou toute utilisation abusive.",
+
+  "section5Title": "Services Tiers",
+  "section5Content": "Nous pouvons faire appel à des prestataires de confiance pour l'hébergement, les analyses, l'envoi d'e-mails et le traitement des paiements. Ces prestataires n'accèdent qu'aux informations nécessaires à leurs services.",
+
+  "section6Title": "Vos Droits",
+  "section6Content": "Vous pouvez demander à consulter, corriger ou supprimer vos informations personnelles à tout moment en contactant BrandIT.",
+
+  "section7Title": "Nous Contacter",
+  "section7Content": "Pour toute question concernant cette politique de confidentialité, veuillez nous contacter via notre page Contact ou par e-mail."
+},
+
+"Terms": {
+  "badge": "Mentions Légales",
+
+  "title": "Conditions Générales",
+
+  "description": "Ces conditions régissent l'utilisation du site web et des services de BrandIT.",
+
+  "section1Title": "Acceptation des Conditions",
+  "section1Content": "En utilisant notre site ou nos services, vous acceptez les présentes Conditions Générales.",
+
+  "section2Title": "Services",
+  "section2Content": "BrandIT propose le développement logiciel, les plateformes SaaS, les sites web, les applications mobiles, le branding, le marketing digital, les services cloud, les solutions d'IA et le conseil informatique.",
+
+  "section3Title": "Paiements",
+  "section3Content": "Les tarifs, modalités de paiement et livrables sont définis avant le début du projet.",
+
+  "section4Title": "Propriété Intellectuelle",
+  "section4Content": "Sauf accord écrit contraire, BrandIT conserve la propriété de ses frameworks, outils et composants réutilisables.",
+
+  "section5Title": "Responsabilités du Client",
+  "section5Content": "Le client s'engage à fournir les informations, validations et contenus nécessaires dans les délais convenus.",
+
+  "section6Title": "Limitation de Responsabilité",
+  "section6Content": "BrandIT ne pourra être tenu responsable des dommages indirects ou consécutifs liés à l'utilisation de ses services.",
+
+  "section7Title": "Modifications",
+  "section7Content": "Nous pouvons mettre à jour ces Conditions Générales à tout moment. La poursuite de l'utilisation de nos services vaut acceptation des nouvelles conditions."
+},
+
+"Cookies": {
+  "badge": "Mentions Légales",
+
+  "title": "Politique des Cookies",
+
+  "description": "Cette page explique comment BrandIT utilise les cookies et les technologies similaires.",
+
+  "section1Title": "Qu'est-ce qu'un Cookie ?",
+  "section1Content": "Les cookies sont de petits fichiers enregistrés sur votre appareil afin d'améliorer le fonctionnement du site et votre expérience utilisateur.",
+
+  "section2Title": "Utilisation des Cookies",
+  "section2Content": "BrandIT utilise des cookies pour mémoriser vos préférences, améliorer les performances du site et analyser son utilisation.",
+
+  "section3Title": "Cookies Tiers",
+  "section3Content": "Nous pouvons utiliser des services tiers tels que Google Analytics ou Meta Pixel, qui peuvent également déposer des cookies.",
+
+  "section4Title": "Gestion des Cookies",
+  "section4Content": "La plupart des navigateurs permettent de contrôler ou désactiver les cookies. Certaines fonctionnalités du site peuvent toutefois être limitées.",
+
+  "section5Title": "Mises à Jour",
+  "section5Content": "Cette politique peut être modifiée à tout moment. Les changements seront publiés sur cette page."
+},
+
+"ServicesPage": {
+  "badge": "Services BrandIT",
+  "title": "Des solutions technologiques qui développent les entreprises.",
+  "description": "Des sites web et applications mobiles aux plateformes SaaS, à l'intelligence artificielle, au branding, au cloud et au marketing digital, nous créons des solutions technologiques qui produisent des résultats commerciaux mesurables.",
+  "learnMore": "En savoir plus"
+}
+
+}

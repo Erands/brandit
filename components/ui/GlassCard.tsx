@@ -1,22 +1,20 @@
-import { ReactNode } from "react";
-import clsx from "clsx";
-
-interface GlassCardProps {
-  children: ReactNode;
+interface Props {
+  children: React.ReactNode;
   className?: string;
 }
 
 export default function GlassCard({
   children,
-  className,
-}: GlassCardProps) {
+  className = "",
+}: Props) {
   return (
     <div
-      className={clsx(
-        "rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl",
-        "shadow-[0_10px_40px_rgba(0,0,0,.25)]",
-        className
-      )}
+      className={`rounded-[32px]
+      border
+      border-white/10
+      bg-white/[0.03]
+      backdrop-blur-xl
+      ${className}`}
     >
       {children}
     </div>
