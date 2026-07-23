@@ -46,7 +46,7 @@ export default function Navbar() {
         >
 
           <Image
-            src="/logo/brandit-icon-site.png"
+            src="/logo/brandit-logo.png"
             alt="BrandIT Africa"
             width={52}
             height={52}
